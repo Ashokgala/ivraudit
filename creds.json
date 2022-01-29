@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "it-team-login",
+  "private_key_id": "61501e43c31cfe25ebf460e4c39a08561b54e3b2",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCYdjDlZpNUlU3r\nhb+d/RpY/6MagbdxLKoI+W+7j5wqa9BLHv/KAyeDF2GvQVImwEJgop8qDiny0sVj\nAm1KolJY0U3RozLE/RF1VzOusODPAeObwyfT2SQfLtGpLEGKHm0zTrbymEcfkHY7\nK8ElMrsDf7bWUVbNOk98awMq9oZmuegxW+mQZ5S5+spumvXjbM4QilCID81y7mAi\nkA2LOqpldumxI7Qn2/ePaFGfTnlZPSJ7xsEYNLRN/gkrPqMQbIxuV8LxoJ1vdUa2\nZxVxWa3BPHxm2z3Fb3iNvvQCevQNz2zN3z2hiSmMKrxd8h+49vOHxjrbjj7ucbg2\nednH3Q19AgMBAAECggEAJC7MnOzSo1zJwM8dsj+KvLtyuIw3fncEpZuZHlDPVav/\no4xoVUeZXX2zk7Wzavnu5uNBVehFoVjPOpetW2yZkXWe+9U469JJjekTnW5h9A71\nNxbCQX9DmNjyLi2QIljlPqt8NKfaHU4aGSHhtVPMWWC6gjOMn6kqixMUjeIy9Hbl\nkxs6Ium2Z4BXKQqbLV2VaoL7uIoL6gtyKAaAIrTe4c5qktjKFCb4mXprd9vrPgKD\nAIKRJ0i6jStngk1pDFPQZrTtvpMUs5Ql6btUlWoj8muQktwglQlXBZ4H3GurDO0i\n3M0TuYYLBFnKQ+QBGvTBzMhbe+yaFG1GsSPcH1SD2wKBgQDQIqVP0L/X2t87hvKB\n7ueivDLSk+2jk7Ae7ihnjXJFUwh+eisl5Nm0QKjwCftX5hJ3Ho58IMh60b9/A3/+\n1DUxNrHoMUUjEcwGGALGO64u1zGmQApSO+so88pYjwIM+LIbAZ2cXlfVh1JoG/Jq\nH+1isi1ENnIsN3c4OREMwI6CLwKBgQC7hexT+a1DTKpCAkjpRxNqDen7/ZGHL8fq\nyRiEgF70eIxaICkai6Sa8jJPK0EnybKGP34+VfmphHEXbi8FHnwYSx8+Ji+PW2q7\nWX9SeyQYcAEoluBE8yEcE4G2nBfoi7m8Y7MVZdOwwr1GveI7FWGtL1TEow0DRGhW\n2efhA+fcEwKBgE7Lvv/vjKGAmCCmHys3sfP3Adqc7EuQPw4Gpb9GWmuKWt3fDHTF\nJfJKxGpTrRcC4By+sbymgJ+WxsOkJJHp7tVZ2pKIDJ+RPkdUUcCQmYncKEzDU+T8\nEDQpz4IlaeZVRMBapTusr94D5BvL8MNioPFLeT2oyyKYQQdE+4JzZ8A7AoGAcWc3\nGT2n00g8uniJQVHzYrKRawvYg0mY+9qrEg5T3kI8lpBWazBB1lZbqFb/KyGl7dvd\n67KwrhxjDAldNBpQb5yWg04yet6M+EnSXr4LgR/TA4nijK//uOvvCNDzAHXnWA9v\nEKSo1X+fWXWhp5txm3tBJz13tB8dflB/Eyv6frMCgYEAwu66eql9js5reKzje292\nZd2KfE6+R80YW5k6Xfl9N0UQwdtbGMTQ2JuVh8Oh2rVzligRaEswC6bQQl1zDqKE\nKYZG5UJ60ltTigqr7YxSmrFRl8/5Y8h9eZ/Atnv8UCt0dSSJ7obDytNzC3uKK/Rq\n7w86Ce528ihIVky9aUxe6Xg=\n-----END PRIVATE KEY-----\n",
+  "client_email": "ivrauditingdump@it-team-login.iam.gserviceaccount.com",
+  "client_id": "103830032680883479525",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/ivrauditingdump%40it-team-login.iam.gserviceaccount.com"
+}
