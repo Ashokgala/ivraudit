@@ -101,17 +101,24 @@ try:
     time.sleep(40.0)
     var = duration.get_attribute('currentTime')
     
+    if str(var) !='0.00':
+
+        status = 'Not Currupted'
+    else:
+        status = 'Its Currupted Prompts/ soundfile is not available'    
+
     print(var)
+    print(status)
     
     file = open('result.txt','a') 
     file.write('\n')
-    file.write(ivrname +":"+ var)
+    file.write(ivrname +":"+ var + ":" + status)
     file.close()
     file = open('result.txt','r')
     #print(file.read())
     file.close()
     
-    append = sheet.append_row([ivrname, var])
+    append = sheet.append_row([ivrname, var, status])
     print(append)
 
     cancelbutton = driver.find_element_by_xpath('//*[@id="ameyo-body"]/div[4]/div/div/main/div[3]/div/div[3]/div/div/div[5]/div[3]/button[2]/span')
@@ -161,15 +168,24 @@ try:
 
             var = duration.get_attribute('currentTime')
 
+            if str(var) !='0.00':
+
+                status = 'Not Currupted'
+            else:
+                status = 'Its Currupted Prompts/ soundfile is not available'    
+
+            print(var)
+            print(status)
+
             file = open('result.txt','a')
             file.write('\n')
-            file.write(ivrname +":"+ var)
+            file.write(ivrname +":"+ var + ":" + status)
             file.close()
             file = open('result.txt','r')
             #print(file.read())
             file.close()
 
-            append = sheet.append_row([ivrname, var])
+            append = sheet.append_row([ivrname, var, status])
             print(append)
             time.sleep(3.0) 
 

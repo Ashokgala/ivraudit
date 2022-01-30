@@ -2,3 +2,5 @@
 accept_vicinity_cancelled_order_hn:17.869
 accept_vicinity_cancelled_order_kn:10.872
 accept_vicinity_cancelled_order_tl:19.1565
+accept_vicinity_cancelled_order_hn:17.869:Not Currupted
+accept_vicinity_cancelled_order_hn:17.869:Not Currupted
